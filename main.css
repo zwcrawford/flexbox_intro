@@ -17,9 +17,7 @@ img {
     display: flex;
     width: 250px;
 }
-.puppers,
-.kitty,
-.lizzy {
+article {
     padding: 5px;
     margin: 5px;
     text-align: center;
